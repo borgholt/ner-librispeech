@@ -1,2 +1,3 @@
-# ner-librispeech
-Named entity recognition task on LibriSpeech
+# Libri-NER
+
+Named entity recognition task on LibriSpeech.
